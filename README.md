@@ -1,2 +1,2 @@
-# Eris_DevOps
+# RTEL_DevOps
 Lab pour l'apprentissage de DevOps
